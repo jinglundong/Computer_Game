@@ -3,7 +3,7 @@
 ### Jinglun Dong Lab7
 ### 2012/04/13
 + This repository is a submission version of class, only source code is included. 
-+ All dependency is not included. Dependency includes OpenGL, Glew, Glue.
++ All dependency e.g. OpenGL, Glew, Glue is not included.
 + If whole project or a release version is needed, please send an email to jinglundong |AT| gmail |DOT| com
 
 0. Command line arguments: 	-t 			terrainTextureIndex
