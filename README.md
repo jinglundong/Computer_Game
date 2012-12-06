@@ -1,7 +1,7 @@
-/****************************************************************************************************************
-*													Jinglun Dong Lab7											*
-*													    2012/04/13												*
-****************************************************************************************************************/
+# First Person Shooter Game
+## Based on OpenGL, Glew, Glue
+### Jinglun Dong Lab7
+### 2012/04/13
 
 0. Command line arguments: 	-t 			terrainTextureIndex
 							-p			planeTextureIndex
