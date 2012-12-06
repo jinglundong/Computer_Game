@@ -1,7 +1,10 @@
-# First Person Shooter Game
-## Based on OpenGL, Glew, Glue
+# First Person Shooter Game 
+## Based on OpenGL, Glew, Glue Developed on Visual Studio 2010
 ### Jinglun Dong Lab7
 ### 2012/04/13
++ This repository is a submission version of class, only source code is included. 
++ All dependency is not included. Dependency includes OpenGL, Glew, Glue.
++ If whole project or a release version is needed, please send an email to jinglundong |AT| gmail |DOT| com
 
 0. Command line arguments: 	-t 			terrainTextureIndex
 							-p			planeTextureIndex
